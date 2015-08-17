@@ -1,0 +1,1 @@
+web: gunicorn djangogirls_tutorial.wsgi
